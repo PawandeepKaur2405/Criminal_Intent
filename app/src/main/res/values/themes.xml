@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CriminalIntent" parent="Theme.AppCompat">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <!--        &lt;!&ndash; Secondary brand color. &ndash;&gt;-->
+<!--        <item name="colorBackgroundFloating">@color/teal_200</item>-->
+<!--        <item name="android:colorSecondary">@color/teal_700</item>-->
+<!--        <item name="colorOnSecondary">@color/black</item>-->
+<!--        &lt;!&ndash; Status bar color. &ndash;&gt;-->
+<!--        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    </style>
+</resources>
